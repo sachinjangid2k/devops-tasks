@@ -1,4 +1,4 @@
-# Docker task <br />
+# Docker task 
 created a docker file which takes the default file that contain nginx config files to remote server and also installed the wget, curl, and python3, <br />
 expose the port 8090 <br />
 # docker command for build container from dockerfile <br />
