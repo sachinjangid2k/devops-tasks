@@ -5,4 +5,5 @@ expose the port 8090 <br />
 docker build -t sachinjangid2k/custom_nginx .
 # docker command for running container <br />
 docker run -d -p 8090:8090 --name test sachinjangid2k/custom_nginx <br />
-Docker hub URL :- https://hub.docker.com/repository/docker/sachinjangid2k/custom_nginx/general
+#Docker hub URL 
+https://hub.docker.com/repository/docker/sachinjangid2k/custom_nginx/general
